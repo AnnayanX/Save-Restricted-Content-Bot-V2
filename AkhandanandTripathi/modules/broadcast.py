@@ -1,10 +1,10 @@
-#devggn
+#AkhandanandTripathi
 
 import asyncio
 from pyrogram import filters
 from config import OWNER_ID
-from devgagan import app
-from devgagan.core.mongo.users_db import get_users
+from AkhandanandTripathi import app
+from AkhandanandTripathi.core.mongo.users_db import get_users
 
 
 

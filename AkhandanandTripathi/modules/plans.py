@@ -1,12 +1,12 @@
-#devggn
+#AkhandanandTripathi
 
 from datetime import timedelta
 import pytz
 import datetime, time
-from devgagan import app
+from AkhandanandTripathi import app
 from config import OWNER_ID
-from devgagan.core.func import get_seconds
-from devgagan.core.mongo import plans_db  
+from AkhandanandTripathi.core.func import get_seconds
+from AkhandanandTripathi.core.mongo import plans_db  
 from pyrogram import filters 
 
 

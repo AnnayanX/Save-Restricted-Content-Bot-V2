@@ -1,10 +1,10 @@
-#devggn
+#AkhandanandTripathi
 
-from devgagan import app
+from AkhandanandTripathi import app
 from pyrogram import filters
 from config import OWNER_ID
-from devgagan.core.mongo.users_db import get_users, add_user, get_user
-from devgagan.core.mongo.plans_db import premium_users
+from AkhandanandTripathi.core.mongo.users_db import get_users, add_user, get_user
+from AkhandanandTripathi.core.mongo.plans_db import premium_users
 
 
 
